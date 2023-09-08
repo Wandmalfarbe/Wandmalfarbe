@@ -1,4 +1,4 @@
 
 Hi, my name is Pascal.
 
-![](img/palms-dithered.png)
+<img align="right" width="769" src="img/palms-dithered.png">
